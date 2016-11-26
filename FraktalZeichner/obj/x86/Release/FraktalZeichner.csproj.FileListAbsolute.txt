@@ -1,0 +1,9 @@
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\FraktalZeichner.Form1.resources
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\FraktalZeichner.Properties.Resources.resources
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\GenerateResource.read.1.tlog
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\GenerateResource.write.1.tlog
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\bin\Release\FraktalZeichner.exe
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\bin\Release\FraktalZeichner.pdb
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\FraktalZeichner.exe
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Release\FraktalZeichner.pdb

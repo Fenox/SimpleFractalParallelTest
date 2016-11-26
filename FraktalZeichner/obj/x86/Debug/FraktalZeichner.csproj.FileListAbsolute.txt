@@ -1,0 +1,17 @@
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.Form1.resources
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.Properties.Resources.resources
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\bin\Debug\FraktalZeichner.exe
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\bin\Debug\FraktalZeichner.pdb
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.exe
+D:\C#\Visual Studio 2010\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.pdb
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\bin\Debug\FraktalZeichner.exe
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\bin\Debug\FraktalZeichner.pdb
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.csprojResolveAssemblyReference.cache
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.Form1.resources
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.Properties.Resources.resources
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.csproj.GenerateResource.Cache
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.exe
+D:\OneDrive\Development\FraktalZeichner\FraktalZeichner\obj\x86\Debug\FraktalZeichner.pdb
